@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+*.iml
+
+# 编译产物
+out/
+build/
+bin/
+*.class
+
+# 运行时数据（本地数据库文件）
+data/
+*.bin
+
+# 系统与临时文件
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
